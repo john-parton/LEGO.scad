@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="swept_wing.svg"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6217075"
+     inkscape:cx="234.0126"
+     inkscape:cy="575.62784"
+     inkscape:window-width="2490"
+     inkscape:window-height="1376"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1928" />
+    <sodipodi:guide
+       position="166.51002,187.84428"
+       orientation="1,0"
+       id="guide3376" />
+    <sodipodi:guide
+       position="131.21507,189.51775"
+       orientation="0,-1"
+       id="guide3454" />
+    <sodipodi:guide
+       position="131.21507,144.94265"
+       orientation="0,-1"
+       id="guide3456" />
+    <sodipodi:guide
+       position="159.43582,159.54746"
+       orientation="1,0"
+       id="guide3458" />
+    <sodipodi:guide
+       position="69.981371,137.48812"
+       orientation="0,-1"
+       id="guide3460" />
+    <sodipodi:guide
+       position="74.469306,179.85727"
+       orientation="1,0"
+       id="guide3462" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 74.4693 159.512 L 74.4693 148.215 L 74.9426 146.771 L 75.697 145.728 L 76.6209 144.993 L 77.6026 144.469 L 159.436 107.482 L 166.51 107.482 L 166.51 152.057 L 159.436 152.057 L 133.272 154.681 L 89.6092 158.882 L 81.9868 159.507 L 74.4693 159.512"
+       id="path705"
+       sodipodi:nodetypes="cccccccscc" />
+  </g>
+</svg>
